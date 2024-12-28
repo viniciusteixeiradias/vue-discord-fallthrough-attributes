@@ -16,5 +16,6 @@ defineProps<{
     ]"
   >
     <slot></slot>
+    <ArrowRight v-if="arrow" class="inline w-4 h-4 ml-2"></ArrowRight>
   </a>
 </template>

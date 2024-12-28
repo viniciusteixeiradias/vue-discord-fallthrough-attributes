@@ -3,5 +3,5 @@ import Comp from "./components/Comp.vue";
 </script>
 
 <template>
-  <Comp href="https://google.com" class="text-lg" arrow> Comp </Comp>
+  <Comp href="https://vuejs.org" class="text-lg" arrow> Comp </Comp>
 </template>
